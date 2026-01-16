@@ -1,0 +1,1 @@
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=00FF00&vCenter=true&repeat=true&width=300&height=20&lines=%24+echo+%22hello+world%22" alt="$ echo hello world" />
